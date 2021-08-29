@@ -2,6 +2,8 @@
 
 Arduino form factor and software compatible board with giant cortex-m7 at 550MHz.
 
+See test firmware [here](https://github.com/martinribelotta/h730duino-firmware)
+
 ![banner](docs/h730duino.png)
 
 ## Characteristics
@@ -77,9 +79,9 @@ These capabilities enable multiple interesting applications:
 
 [Download in PDF format](docs/schematic.pdf)
 
-[Octopart BoM](https://octopart.com/bom-tool/OT2Ji446)
+[Octopart BoM](https://octopart.com/bom-tool/nudLZO8C)
 
-[CSV BoM (octpart compatible)](docs/20210322_stm32h73x_duino_csv.csv)
+[CSV BoM (octpart compatible)](docs/stm32h7duino-v01.csv)
 
 ![docs/h730duino.svg](docs/h730duino.svg)
 ![docs/h730duino.svg](docs/debugger-Debug.svg)
